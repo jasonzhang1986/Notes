@@ -1,5 +1,7 @@
 ## My first step into the world of Software Development — and what you can learn from it
 
+转载自：medium [原文链接Link](https://medium.freecodecamp.org/my-first-steps-into-the-world-of-software-development-and-what-they-taught-me-6ee748cffb8f)
+
 As a budding student of computer science, there’s a disconnect between what you learn in class and what you see in the real world. You learn all there is to know about loops of every variety—for, while, do while. You can write a command line based tic-tac-toe game like it’s nobody’s business. And you write so much fill-in-the-blank x86 assembly that it makes your head spin.
 
 But you haven’t the slightest clue how something like Facebook works. Or Reddit. Or YouTube. You don’t even have an inkling of where to begin. When you Google “companies that use python,” since Python is the only language you know, you find people saying things like “Reddit…uses python for their backend.” Backend? What does that even mean?
