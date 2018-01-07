@@ -49,23 +49,42 @@
 你继续学习，但是开始遇到很多你不完全理解的概念。Routes? HTTP? GET？ POST？还有什么是 rendering 模板? 这些术语有些似曾相识，但你并不真正了解它们的意思，所以你就停下来去查它们。就像你了解了 pip 和 virtualenv，你开始对这个应用程序的工作方式有了模糊的认识。
 
 ### Takeaway #3:
-Learning takes practice. Just like any other skill, it needs to be honed. And just like any other **practiced** skill, it can become a habit. Seize every opportunity you have to learn. Remember: success begets success. Make learning a habit, and not only will your personal growth skyrocket, but your desire to learn will grow as well.
+> Learning takes practice. Just like any other skill, it needs to be honed. And just like any other **practiced** skill, it can become a habit. Seize every opportunity you have to learn. Remember: success begets success. Make learning a habit, and not only will your personal growth skyrocket, but your desire to learn will grow as well.
 
-You can use templates to display content like you would with any other HTML/CSS page, but the content is dynamic. You can control what content is displayed at different URLs by defining routes. You can even fetch content from other websites to use in your own application!
+学习需要练习。就像其他技能需要磨练一样。就像任何其他的练习技巧一样，它可以成为一种习惯。抓住每一个你必须学习的机会。记住:成功产生成功。让学习成为一种习惯，不仅会让你的个人成长飞速发展，而且你对学习的渴望也会增长。
 
-As you get more and more comfortable, you start to feel a degree of control and pride in your independent learning that you’ve never felt while working on any of your class projects. You feel empowered. Who even needs school, anyway?
+> You can use templates to display content like you would with any other HTML/CSS page, but the content is dynamic. You can control what content is displayed at different URLs by defining routes. You can even fetch content from other websites to use in your own application!
 
-As you gain confidence, the guide starts to feel a little…basic. It is, after all, a quick start guide. I could do something cooler than this, you think.
+你可以像使用其他 HTML / CSS 页面一样通过使用模板来显示内容，只不过现在内容是动态的。通过定义路由，你可以控制不同 url 中显示的内容。你甚至可以从其他网站获取内容用到自己的应用中!
 
-So you strike out on your own. You set up your project the same way you did before, with pip and virtualenv, because that’s the only way you know how to set up a project. You know how to set up the templates. You know how to set up the routes, the HTTP requests, the GETs and the POSTs. You might even dare to use a third party API and practice reading some more documentation. You still don’t understand everything, but you’re learning, bit by bit.
+> As you get more and more comfortable, you start to feel a degree of control and pride in your independent learning that you’ve never felt while working on any of your class projects. You feel empowered. Who even needs school, anyway?
 
-And finally, you build your very first independent side project. Not the result of a tutorial that hundreds of budding developers before you have followed. Not a class assignment that thousands of students before you have done. A real, tangible, honest-to-goodness application that would not exist had you not built it. **And that’s an amazing feeling.**
+随着你越来越舒适，你开始感受到一定程度的控制能力，并为自己的独立学习感到自豪，这是你在任何课堂从未感受过的。 你感到有控制力。 谁还需要上学呢？
 
-So what’s next? Now that you’ve built an application, how do you put it online so everyone can use it? What really is a “back end?” A front end?
+> As you gain confidence, the guide starts to feel a little…basic. It is, after all, a quick start guide. I could do something cooler than this, you think.
 
-Here’s the great thing about fostering a desire to learn: there’s always more. It’s like an amazing television series that you can never get enough of—**and it never ends.** There’s no such thing as learning too much. Every discipline in software development is an entire new world to dive into, and the more you learn, the more worlds are opened up to you.
+当你获得信心时，开始感觉入门指南有点基本，毕竟这是一个快速入门指南。你会想我可以做一些比这更酷炫的事情。
 
-At some point, you realize that there is no single canonical path to being a “real” software developer. There’s not enough time to master every single thing. Everyone’s path to success is totally unique. **It’s entirely up to you to forge a path to the destination you want to reach.**
+> So you strike out on your own. You set up your project the same way you did before, with pip and virtualenv, because that’s the only way you know how to set up a project. You know how to set up the templates. You know how to set up the routes, the HTTP requests, the GETs and the POSTs. You might even dare to use a third party API and practice reading some more documentation. You still don’t understand everything, but you’re learning, bit by bit.
+
+所以你自己动手。你用 pip 和 virtualenv 来建立你的项目，因为这是你知道如何建立一个项目的唯一方法。您知道如何设置模板。您知道如何设置路由、HTTP 请求、get和 post。您甚至可以使用第三方 API，并练习阅读更多的文档。你仍然不能理解所有的事情，但是你正在一点点地学习。
+
+> And finally, you build your very first independent side project. Not the result of a tutorial that hundreds of budding developers before you have followed. Not a class assignment that thousands of students before you have done. A real, tangible, honest-to-goodness application that would not exist had you not built it. **And that’s an amazing feeling.**
+
+最终，你建立了第一个独立的项目。它不是跟随成百上千新手使用过的入门教程得到的结果，它也不是一个成百上千学生的课堂作业。它是一个真实的，有形的，以前不曾存在过的应用。这是一种奇妙的感觉。
+
+> So what’s next? Now that you’ve built an application, how do you put it online so everyone can use it? What really is a “back end?” A front end?
+
+那么接下来要干什么呢？ 既然你已经构建了一个应用，那么你何不把它放到网上以便每个人都可以使用它？什么才是“后端”？什么是”前端”？
+
+> Here’s the great thing about fostering a desire to learn: there’s always more. It’s like an amazing television series that you can never get enough of—**and it never ends.** There’s no such thing as learning too much. Every discipline in software development is an entire new world to dive into, and the more you learn, the more worlds are opened up to you.
+
+培养学习欲望的事情总是会有很多。 这就像一部精彩的电视连续剧，只要不到剧终你是不会觉得满足的。 软件开发的每一门学科都是一个全新的世界，你学的越多，向你开放的世界就越多。
+
+> At some point, you realize that there is no single canonical path to being a “real” software developer. There’s not enough time to master every single thing. Everyone’s path to success is totally unique. **It’s entirely up to you to forge a path to the destination you want to reach.**
+
+
+在某种程度上，你会意识到成为一个“真正”的软件开发者没有统一的规范路径。 你也没有足够的时间去掌握所有的知识点。 每个人通往成功的道路都是独一无二的。这完全取决于你如何去打造一条通往想要到达的目的地的道路。
 
 This was the story of my own first step into the world of software development. If you want to see the very first side project that I ever built, you can check it out here.
 
