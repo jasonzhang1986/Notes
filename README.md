@@ -4,5 +4,5 @@
 #### 建立代理IP库
 #### 查看爬取的网页是否可用
 #### Jupyter Notebook 小技巧
-  * [主题修改](JuptyerNoteBook.md)
+  * [小技巧](JupyterNoteBook.md)
   * [修改工作空间](JupyterNoteBook_change_workspace.md)
