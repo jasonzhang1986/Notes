@@ -6,3 +6,5 @@
 #### Jupyter Notebook
   * [小技巧](JupyterNoteBook.md)
   * [修改工作空间](JupyterNoteBook_change_workspace.md)
+
+#### kotlin小技巧
