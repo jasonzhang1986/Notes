@@ -8,5 +8,5 @@
   * [修改工作空间](JupyterNoteBook_change_workspace.md)
 
 #### kotlin小技巧
-#### 蓝牙传输
+#### 蓝牙传输、A2Dp
 #### LiveData
