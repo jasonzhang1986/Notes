@@ -11,6 +11,7 @@
 #### 蓝牙传输、SPP、A2DP
 #### LiveData
 #### Room
-  + Room 的一些坑
+  * room 的一些坑
 #### git 使用小技巧 [link](git.md)
   * git status 中文名显示问题
+#### 分享
