@@ -15,3 +15,5 @@
 #### git 使用小技巧 [link](git.md)
   * git status 中文名显示问题
 #### 分享
+  * WeChat
+  * QQ
