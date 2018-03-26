@@ -12,6 +12,7 @@
 #### LiveData
 #### Room
   * room 的一些坑
+  * 数据库版本更新
 #### git 使用小技巧 [link](git.md)
   * git status 中文名显示问题
 #### 分享
